@@ -1,0 +1,4 @@
+#(-> %
+     vec
+     pop
+     last)
